@@ -15,16 +15,22 @@ To use the script:
 3. Install all dependencies
 
 ```bash
-    # Insall dependencies
+
+# Insall dependencies
+
     ## request
     python -m pip install requests
+
     ## beautifulsoup4
     pip install beautifulsoup4
+
 ```
 
 4. Run following command in terminal
 
 ```bash
-    # Run the script
+
+# Run the script
     pyton stock_reminder_v1.0.py
+
 ```
